@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SmartHire.API/SmartHire.API.csproj" />
+  <Project Path="SmartHire.Core/SmartHire.Core.csproj" />
+  <Project Path="SmartHire.Infrastructure/SmartHire.Infrastructure.csproj" />
+</Solution>
